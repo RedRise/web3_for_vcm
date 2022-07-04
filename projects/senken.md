@@ -1,4 +1,3 @@
-
 # SENKEN
 
 ## Identification
@@ -44,3 +43,8 @@ SENKEN key features
 - Team : 5 people (2 co-founders)
   - [Adrien](https://twitter.com/mr_adrianxyz), SOUTH AFR, ingenior + EY
   - [Rene Schafer](https://twitter.com/schfrrn), GERMAN, History
+
+## Bibliography
+
+- 2022-06-22 [Toucan Blog Post](https://blog.toucan.earth/toucan-senken/)
+- 2022-06-22 [Twitter Space](https://twitter.com/i/spaces/1mnGedQXPlqKX)
