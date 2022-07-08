@@ -3,7 +3,7 @@
 ## Identification
 
 - [Website](https://www.senken.io/)
-- [Twitter](https://twitter.com/senken_io)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/Senken_io?label=Senken_io)](https://twitter.com/Senken_io)
 - ![favicon](https://uploads-ssl.webflow.com/62212582c63fbf7d0c721af4/622884455ab1ba2c8c2b149b_icon_black%20(1)%20(2).png)
 
 ## Description
