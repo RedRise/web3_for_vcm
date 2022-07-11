@@ -7,4 +7,5 @@
 
 ## Bibliography
 
+- 2022-07 [Mailing list](https://mailchi.mp/solid.world/solid-world-dao-april-update-11820567?e=[UNIQID)
 - 2022-04 [Mailing list](https://mailchi.mp/solid.world/solid-world-dao-april-update-11815275?e=[UNIQID])

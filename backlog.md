@@ -2,6 +2,7 @@
 
 ## Projects
 
+- [Emstream](https://www.emstream.co.uk/) VCU OTC broker
 - [Younergy?](https://younergy.com/about/)
   - https://younergycrypto.substack.com/p/coming-soon
 
